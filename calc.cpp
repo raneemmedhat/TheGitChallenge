@@ -6,6 +6,7 @@ int main()
    float a, b, result;
    char operation;
  result = a + b;
+ //some support functions
    // Get numbers and mathematical operator from user input
    cin >> a >> operation >> b;
    return 0;
