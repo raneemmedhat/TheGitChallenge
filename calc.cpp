@@ -25,7 +25,6 @@ int main()
          return -1;
 }
 =======
- result = a + b;
 >>>>>>> hotfix
    // Get numbers and mathematical operator from user input
    cin >> a >> operation >> b;
