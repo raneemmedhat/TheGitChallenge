@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-   float a, b,c, result;
+   float a, b, result;
    char operation;
 <<<<<<< HEAD
    switch(operation)
@@ -21,7 +21,7 @@ int main()
          result = a / b;
          break;
 	default:
-         cout << "Invalid operation. Program will close." << endl;
+         cout << "Invalid operation. Program will crash now." << endl;
          return -1;
 }
 =======
