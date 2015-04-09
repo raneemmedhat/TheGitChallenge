@@ -22,6 +22,7 @@ int main()
 	case '/':
          result = a / b;
          break;
+		 //new kind of operations
 	case'.'
 		result = a-b/a+b;
 		break;
