@@ -20,6 +20,7 @@ int main()
 	case '/':
          result = a / b;
          break;
+	//new release for this feature
 	case'.'
 		result = a*b/a+b;
 		break;
