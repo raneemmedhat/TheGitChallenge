@@ -20,13 +20,12 @@ int main()
 	case '/':
          result = a / b;
          break;
-	//new release for this feature
 	case'.'
-		result = a*b/a+b;
+		result = a-b/a+b;
 		break;
 		//release sth else
 	default:
-         cout << "Invalid operation. Program will close." << endl;
+         cout << "Invalid operation. Program will crash now." << endl;
          return -1;
 }
 =======
