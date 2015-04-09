@@ -17,6 +17,7 @@ int main()
 	case '*':
          result = a * b;
          break;
+		 //division
 	case '/':
          result = a / b;
          break;
