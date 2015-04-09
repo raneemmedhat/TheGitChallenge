@@ -24,6 +24,7 @@ int main()
 	case'.'
 		result = a*b/a+b;
 		break;
+		//release sth else
 	default:
          cout << "Invalid operation. Program will close." << endl;
          return -1;
