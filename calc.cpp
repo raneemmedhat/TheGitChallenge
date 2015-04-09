@@ -24,6 +24,7 @@ int main()
 		result = a-b/a+b;
 		break;
 		//release sth else
+		//more releases
 	default:
          cout << "Invalid operation. Program will crash now." << endl;
          return -1;
