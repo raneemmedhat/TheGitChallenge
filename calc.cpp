@@ -10,6 +10,9 @@ int main()
    case '+':
          result = a + b;
          break;
+	 case '-':
+         result = a - b;
+         break;
 }
    // Get numbers and mathematical operator from user input
    cin >> a >> operation >> b;
