@@ -14,7 +14,7 @@ int main()
          result = a - b;
          break;
 	default:
-         cout << "Invalid operation. Program terminated." << endl;
+         cout << "Invalid operation. Program will close." << endl;
          return -1;
 }
    // Get numbers and mathematical operator from user input
