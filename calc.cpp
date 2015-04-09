@@ -5,6 +5,7 @@ int main()
 {
    float a, b, result;
    char operation;
+<<<<<<< HEAD
    switch(operation)
    {
    case '+':
@@ -23,6 +24,9 @@ int main()
          cout << "Invalid operation. Program will close." << endl;
          return -1;
 }
+=======
+ result = a + b;
+>>>>>>> hotfix
    // Get numbers and mathematical operator from user input
    cin >> a >> operation >> b;
    return 0;
