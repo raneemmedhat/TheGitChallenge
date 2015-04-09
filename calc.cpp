@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-   float a, b, result;
+   float a, b,c, result;
    char operation;
 <<<<<<< HEAD
    switch(operation)
