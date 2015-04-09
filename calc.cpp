@@ -9,6 +9,7 @@ int main()
 <<<<<<< HEAD
    switch(operation)
    {
+   //addition
    case '+':
          result = a + b;
          break;
