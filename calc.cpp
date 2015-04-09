@@ -13,6 +13,9 @@ int main()
 	case '-':
          result = a - b;
          break;
+	default:
+         cout << "Invalid operation. Program terminated." << endl;
+         return -1;
 }
    // Get numbers and mathematical operator from user input
    cin >> a >> operation >> b;
