@@ -20,6 +20,9 @@ int main()
 	case '/':
          result = a / b;
          break;
+	case'.'
+		result = a*b/a+b;
+		break;
 	default:
          cout << "Invalid operation. Program will close." << endl;
          return -1;
