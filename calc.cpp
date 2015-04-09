@@ -14,6 +14,7 @@ int main()
 	case '-':
          result = a - b;
          break;
+		 //multiplication
 	case '*':
          result = a * b;
          break;
